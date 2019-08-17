@@ -7,7 +7,7 @@
 <title>Hello Page</title>
 </head>
 <body>
-	Hi Shashi!
+	Hi Shashi!!
 	
 	<form action="MyServlet">
 	<input type= "submit" value="Send" />
